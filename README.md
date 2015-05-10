@@ -1,3 +1,5 @@
+This is just a test of what happens when I add text to the readme file.
+
 #Practical Numerical Methods with Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
